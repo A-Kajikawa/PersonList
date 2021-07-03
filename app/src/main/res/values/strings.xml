@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PersonList</string>
+    <string name="radio1">married</string>
+    <string name="radio2">un_married</string>
+    <string name="deleteButton">DELETE</string>
+    <string name="updateButton">UPDATE</string>
+    <string name="okButton">OK</string>
+    <string name="cancelButton">CANCEL</string>
+    <string name="name_Input">Name</string>
+    <string name="age_Input">Age</string>
+    <string name="message">何も入力されていません</string>
+    <string name="addButton">ADD</string>
+</resources>
